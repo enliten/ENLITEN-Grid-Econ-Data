@@ -1,11 +1,13 @@
 # WECC-and-NPCC-Electricity-Economic-Data
 This repository includes relevent code and data for economic data on WECC and NPCC systems.
 
-# Authors
-Qiwei Zhang and Fangxing Fran Li, Dept. of EECS & CURENT, The University of Tennessee - Knoxville
+# Authors and Contact information
+Qiwei Zhang (qzhang41@vols.utk.edu) and Fangxing Fran Li (fli6@utk.edu)  
+Dept. of EECS & CURENT 
+The University of Tennessee - Knoxville
 
 # How to use this data set?
-This data set would be of interest to you if you are doing electricity economic simulations, such as economic dispatch and LMP calculation. We provide a comprehensive economic data set for WECC and NPCC system based on real-world grid operation data. Users can access the developed data set to perform . Users are also encouraged to use MATPOWER 
+This data set would be of interest to you if you are doing electricity economic simulations, such as economic dispatch and LMP calculation. We provide a comprehensive economic data set for WECC and NPCC system based on real-world grid operation data. Users can access the developed data set to perform . Users are also encouraged to use MATPOWER.  
 The detailed description on the developed data can be found next. 
 
 
@@ -47,9 +49,5 @@ A '.mat' type load file is also provided for users' convenience on investigating
 # Codes Descriptions
 ## Folder: Cost_and_cap
 
-
-# Contact
-Qiwei Zhang (qzhang41@vols.utk.edu)  
-Fangxing Fran Li (fli6@utk.edu)
 # Lisence
 This public data set is licensed under the GPL v3 License.
