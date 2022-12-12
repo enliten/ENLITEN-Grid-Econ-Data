@@ -47,6 +47,8 @@ A '.mat' type load file is also provided for users' convenience on investigating
 
 # Codes Descriptions
 ## Folder: Cost_and_cap
-
+This folder contains the code to generate the cost data for NPCC and WECC data. Future users can customize the generator aggregation, fule cost, etc. to create preferred cost for their research.
+## Folder: Price_comparison
+This folder contains the code to calculate the correlation value bettwen the simulated price and the real-world prices. 
 # Lisence
 This public data set is licensed under the GPL v3 License.
