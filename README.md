@@ -6,7 +6,7 @@ Qiwei Zhang (qzhang41@vols.utk.edu) and Fangxing Fran Li (fli6@utk.edu)
 Dept. of EECS & CURENT, The University of Tennessee - Knoxville
 
 # How should this data set be used?
-This data set would be of interest to you if you are doing electricity economic simulations, such as economic dispatch and LMP calculation. We provide a comprehensive economic data set for WECC and NPCC systems based on real-world grid operation data. Users can access the developed data set for generator aggregation, fuel cost, capacity, line rating. Users are also encouraged to use MATPOWER.  
+This data set would be of interest to you if you are doing electricity economic simulations, such as economic dispatch and LMP calculation. We provide a comprehensive economic data set for WECC and NPCC systems based on real-world grid operation data. Users can access the developed data set for generator aggregation, fuel cost, generator capacity, and line rating. Users are also encouraged to use MATPOWER.  
 The detailed description on the developed data can be found next. 
 
 
