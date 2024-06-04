@@ -1,5 +1,6 @@
 # WECC-and-NPCC-Electricity-Economic-Data
 This repository includes relevent code and data for economic data on WECC and NPCC systems. To give credits to our work, please cite our paper listed below. 
+
 Qiwei Zhang, Fangxing Li, "A Dataset for Electricity Market Studies on Western and Northeastern Power Grids in the United States," Scientific Data, vol. 10, article 646, Sept. 2023.
 
 # Authors and Contact information
